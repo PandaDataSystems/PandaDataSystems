@@ -11,7 +11,6 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 
 
 <!-- recent projects -->
-## Recent Projects
 
 <!-- community -->
 ## Join Our CodeForge Community
