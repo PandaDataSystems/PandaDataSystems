@@ -46,6 +46,6 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 <!-- social media -->
 ## Support Us
 
-**[Buying Me a Coffee](https://www.buymeacoffee.com/pdstech)** will support my mission to embrace the power of innovation and empower a dedicated software developer on his journey to create exceptional solutions. By supporting me, you become an essential part of fueling innovation in the world of software development. Your contribution enables me to explore new technologies, refine my skills, and stay at the forefront of the ever-evolving tech landscape. Together, we can push the boundaries of what's possible and create groundbreaking solutions that make a real impact.
+**[Buying us a Coffee](https://www.buymeacoffee.com/pdstech)** will support our mission to embrace the power of innovation and empower a dedicated software developer on his journey to create exceptional solutions. By supporting us, you become an essential part of fueling innovation in the world of software development. Your contribution enables us to explore new technologies, refine our teams skills, and stay at the forefront of the ever-evolving tech landscape. Together, we can push the boundaries of what's possible and create groundbreaking solutions that make a real impact.
 
 ***Join us on this transformative journey, where every line of code we write has the potential to shape the future. Together, let's build remarkable solutions and leave a lasting impact on the world. Support me today and be a catalyst for change***
