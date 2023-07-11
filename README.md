@@ -1,5 +1,5 @@
 <!-- banner -->
-![](https://i.imgur.com/SdESmY7.png)
+![](https://i.imgur.com/7cXRr2a.png)
 <!-- introduction -->
 # Welcome! 👋
 
