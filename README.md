@@ -1,5 +1,5 @@
 <!-- introduction -->
-# Hi, there! 👋
+# Welcome! 👋
 
 We're Panda Data Systems. We are a team of dynamic and innovative individuals dedicated to harnessing the power of programming languages to drive meaningful outcomes. Our wonder team collaborates seamlessly to develop cutting-edge solutions that solve complex challenges. Collaboration is at the heart of everything we do. We value partnerships and work closely with our clients to understand their unique goals and challenges. By fostering a collaborative environment, we build long-term relationships based on trust and mutual success. Together, we'll navigate the data landscape and turn challenges into opportunities. 👥💼✨
 
