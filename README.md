@@ -8,9 +8,10 @@ Hello there! We're Panda Data Systems. We are a team of dynamic and innovative i
 
 <!-- current projects -->
 ## Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
+
 
 <!-- recent projects -->
+## Recent Projects
 
 <!-- community -->
 ## Join Our CodeForge Community
