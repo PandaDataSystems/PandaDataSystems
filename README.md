@@ -7,6 +7,12 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
 
+<!-- current projects -->
+## Current Projects
+
+
+<!-- recent projects -->
+
 <!-- resources -->
 ## ⚙️ Our Resources on Github
 - [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://github.com/PandaDataSystems/Python) - A comprehensive repository showcasing Python projects and code examples for various applications and domains. From basic scripting to advanced data analysis and machine learning, this repository covers a wide range of Python topics. Whether you're a beginner or an experienced developer, you'll find useful resources, libraries, and best practices to enhance your Python programming skills and build robust applications.
@@ -14,12 +20,6 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 - [<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />](https://github.com/PandaDataSystems/Ansible) - This repository serves as a central hub for Ansible playbooks, roles, and modules, designed to automate infrastructure provisioning, configuration management, and application deployments. Discover a collection of well-documented and reusable Ansible code snippets that enable you to streamline your IT operations, simplify deployments, and ensure consistency across your infrastructure. Contributions and collaboration from the Ansible community are encouraged and welcomed.
 - [<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />](https://github.com/PandaDataSystems/Terraform) - Welcome to the Terraform repository, a comprehensive resource for infrastructure as code enthusiasts. Explore a collection of Terraform modules, templates, and best practices that empower you to provision, manage, and scale infrastructure resources across various cloud providers. From creating virtual machines to deploying complex architectures, this repository provides a wealth of examples, guides, and configuration files to accelerate your infrastructure automation journey.
 - [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://github.com/PandaDataSystems/Tailwind) - Welcome to the Tailwind CSS repository, your go-to source for all things related to the utility-first CSS framework. Discover an extensive collection of pre-built components, responsive layouts, and ready-to-use utility classes that empower developers to rapidly create modern and beautiful user interfaces. This repository provides comprehensive documentation, tutorials, and examples to help you master the art of using Tailwind CSS efficiently. Join the vibrant community, contribute to the framework's development, and stay up-to-date with the latest features and enhancements. Start building amazing websites and applications with the power and flexibility of Tailwind CSS today!
-
-<!-- current projects -->
-## Current Projects
-
-
-<!-- recent projects -->
 
 <!-- community -->
 ## Join Our CodeForge Discord Community
