@@ -13,8 +13,8 @@ Hello there! We're Panda Data Systems. We are a team of dynamic and innovative i
 <!-- recent projects -->
 
 <!-- community -->
-## Join My Community
-**[Join my Discord](https://discord.gg/54efxMtrdc)**  and connect with a vibrant community of like-minded individuals passionate about technology and innovation. Come aboard our Discord community today, where knowledge is shared, collaborations thrive, and friendships are forged. Join us in shaping the future of technology together. Click the link above and become part of something extraordinary
+## Join Our CodeForge Community
+**[Join our Discord](https://discord.gg/54efxMtrdc)**  and connect with a vibrant community of like-minded individuals passionate about technology and innovation. Come aboard our Discord community today, where knowledge is shared, collaborations thrive, and friendships are forged. Join us in shaping the future of technology together. Click the link above and become part of something extraordinary
 
 <!-- resource repositories -->
 ## Resources on Github
