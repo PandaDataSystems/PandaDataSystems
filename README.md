@@ -7,6 +7,11 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
 
+<!-- resources -->
+## ⚙️ Our Resources on Github
+- [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://github.com/PandaDataSystems/Python) - A comprehensive repository showcasing Python projects and code examples for various applications and domains. From basic scripting to advanced data analysis and machine learning, this repository covers a wide range of Python topics. Whether you're a beginner or an experienced developer, you'll find useful resources, libraries, and best practices to enhance your Python programming skills and build robust applications.
+- [<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />](https://github.com/PandaDataSystems/PowerShell) - Unlock the full potential of PowerShell with this repository, featuring a curated selection of PowerShell scripts, modules, and tools. Whether you're a system administrator, a developer, or a power user, you'll find resources to automate tasks, manage Windows environments, and interact with various systems and services. From simple one-liners to advanced automation workflows, this repository helps you harness the power of PowerShell and optimize your daily operations. Join the vibrant community and contribute your own PowerShell solutions to benefit others.
+- [<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />](https://github.com/PandaDataSystems/Ansible) - This repository serves as a central hub for Ansible playbooks, roles, and modules, designed to automate infrastructure provisioning, configuration management, and application deployments. Discover a collection of well-documented and reusable Ansible code snippets that enable you to streamline your IT operations, simplify deployments, and ensure consistency across your infrastructure. Contributions and collaboration from the Ansible community are encouraged and welcomed.
 
 <!-- current projects -->
 ## Current Projects
