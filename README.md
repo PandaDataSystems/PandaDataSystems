@@ -3,9 +3,8 @@
 
 Hello there! We're Panda Data Systems. We are a team of dynamic and innovative individuals dedicated to harnessing the power of programming languages to drive meaningful outcomes. Our wonder team collaborates seamlessly to develop cutting-edge solutions that solve complex challenges. 
 
-[<img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347'/>](https://www.codecademy.com/profiles/immain)
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ianmain/)
+
 
 <!-- current projects -->
 ## Current Projects
