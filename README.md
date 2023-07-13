@@ -13,7 +13,7 @@ We're Panda Data Systems. We are a team of dynamic and innovative individuals de
 <!-- recent projects -->
 
 <!-- self-hosted -->
-## Self-Hosted / Awesome Resources
+## Discover and Explore
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pandadatasystems&repo=Self-Hosted&theme=react)](https://github.com/PandaDataSystems/Self-Hosted)
 <!-- resources -->
 ## ⚙️ Our Resources on Github
